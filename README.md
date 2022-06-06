@@ -8,5 +8,7 @@ Entorns de Desenrotllament
 
 Programa exemple per activitat de Github amb Python
 
+06/06/2022 23:30 Agregamos la opcion de Plenar Tots el Poals
+
 06/06/2022 23:35 Añadir opcion de Buidar tots el Poals
 
